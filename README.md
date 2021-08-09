@@ -1,1 +1,2 @@
-# php_s-nav_-al-mas-
+# php_sınav_çalışması
+session,üye girişi,yorum  gibi şişlemlerin bulunduğu bir öğrenme projesidir.
